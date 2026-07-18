@@ -59,3 +59,39 @@ console.log(goals);
 // Problem 14: Store number of pillows
 const pillow = 2;
 console.log(pillow);
+
+
+
+
+// ==================================
+// Problem 15-21: String Variables
+// ==================================
+
+// Problem 15: Store name
+const name = "Mohammad Moin Uddin";
+console.log(name);
+
+// Problem 16: Store address
+const address = "Cumilla, Bangladesh";
+console.log(address);
+
+
+// Problem 17: Store institution name
+const institution = "Islamic University";
+console.log(institution);
+
+// Problem 18: Store favorite actress name
+const fan = "Nam Jani Na";
+console.log(fan);
+
+// Problem 19: Store favorite movie name
+const movieOfTheYear = "Js Tutorial";
+console.log(movieOfTheYear);
+
+// Problem 20: Store hobby
+const hobby = "Programming";
+console.log(hobby);
+
+// Problem 21: Store favorite color
+const color = "Green";
+console.log(color);

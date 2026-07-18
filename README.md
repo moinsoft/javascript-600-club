@@ -8,8 +8,8 @@ A structured JavaScript problem-solving journey featuring 600 solutions from the
 
 🚧 In Progress
 
-📚 Chapters Completed: **0 / 25**  
-📝 Problems Solved: **0 / 600**
+📚 Chapters Completed: **1 / 25**
+📝 Problems Solved: **38 / 600**
 
 ## About
 

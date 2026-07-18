@@ -95,3 +95,46 @@ console.log(hobby);
 // Problem 21: Store favorite color
 const color = "Green";
 console.log(color);
+
+
+
+
+
+// =================================
+// Problem 22-28: Boolean Variables
+// =================================
+
+// Problem 22: Friend happy or not
+const isFriendHappy = false;
+console.log(isFriendHappy);
+
+// Problem 23: Crush message status
+const crushMessage = true;
+console.log(crushMessage);
+
+// Problem 24: Celebration status
+const celebrating = true;
+console.log(celebrating);
+
+// Problem 25: Multiple boolean variables
+
+const isHappy = true;
+const hasMoney = false;
+const isHungry = true;
+
+console.log(isHappy);
+console.log(hasMoney);
+console.log(isHungry);
+
+// Problem 26: Study completed status
+const isStudyDone = true;
+console.log(isStudyDone);
+
+// Problem 27: Phone charging status
+const isPhoneCharged = false;
+console.log(isPhoneCharged);
+
+
+// Problem 28: Dinner completed status
+const isDinnerDone = true;
+console.log(isDinnerDone);

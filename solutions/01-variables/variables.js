@@ -138,3 +138,122 @@ console.log(isPhoneCharged);
 // Problem 28: Dinner completed status
 const isDinnerDone = true;
 console.log(isDinnerDone);
+
+
+
+
+
+// =================================
+// Problem 29-38: Basic Operations
+// =================================
+
+
+
+// Problem 29: Calculate remaining money
+
+const income = 100;
+const expense = 40;
+
+const remainingMoney = income - expense;
+
+console.log(remainingMoney);
+
+
+
+// Problem 30: Pencil usage calculation
+
+const pencils = 10;
+const usedEachTime = 2;
+
+const pencilUses = pencils / usedEachTime;
+
+console.log(pencilUses);
+
+
+// Problem 31: Expense calculation
+
+const money = 60;
+const costPerTime = 15;
+
+const timesSpent = money / costPerTime;
+const remainingAfterExpense = money % costPerTime;
+
+console.log(timesSpent);
+console.log(remainingAfterExpense);
+
+
+// Problem 32: Join two strings
+
+const firstWord = "Hello";
+const secondWord = "World";
+
+const fullWord = firstWord + secondWord;
+
+console.log(fullWord);
+
+
+// Problem 33: Calculate total weight
+
+const rice = 153;
+const lentil = 261;
+
+const totalWeight = rice + lentil;
+
+console.log(totalWeight);
+
+
+// Problem 34: Shopping calculation
+
+const totalMoney = 500;
+const spending = 75;
+
+const totalSpendTimes = totalMoney / spending;
+const remaining = totalMoney % spending;
+
+console.log(totalSpendTimes);
+console.log(remaining);
+
+
+
+// Problem 35: Division quotient and remainder
+
+const number = 8;
+const divisor = 3;
+
+const quotient = number / divisor;
+const remainder = number % divisor;
+
+console.log(quotient);
+console.log(remainder);
+
+
+// Problem 36: remainder
+
+const value = 50;
+const divideBy = 9;
+
+const result = value % divideBy;
+
+console.log(result);
+
+
+// Problem 37: Create Bangladesh using strings
+
+const countryPartOne = "Bangla";
+const countryPartTwo = "desh";
+
+const countryName = countryPartOne + countryPartTwo;
+
+console.log(countryName);
+
+
+// Problem 38: Rice consumption calculation
+
+const totalRice = 480;
+const dailyConsumption = 4;
+
+const totalDays = totalRice / dailyConsumption;
+const totalMonths = totalDays / 30;
+
+console.log(totalDays);
+console.log(totalMonths);

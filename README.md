@@ -8,8 +8,11 @@ A structured JavaScript problem-solving journey featuring 600 solutions from the
 
 🚧 In Progress
 
-📚 Chapters Completed: **1 / 25**
+📚 Chapters Completed: **1 / 25**  
 📝 Problems Solved: **38 / 600**
+
+## Project Updates
+**19-07-2026:** Completed Variables chapter and updated project progress.
 
 ## About
 

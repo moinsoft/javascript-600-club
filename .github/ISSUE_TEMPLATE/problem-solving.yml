@@ -1,0 +1,45 @@
+name: Problem Solving
+description: Create a JavaScript problem solving task
+title: "[Problem]: "
+labels:
+  - problem-solving
+
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: Chapter
+      description: Which JavaScript chapter does this problem belong to?
+      placeholder: "Example: Variables"
+    validations:
+      required: true
+
+  - type: input
+    id: problem-range
+    attributes:
+      label: Problem Range
+      description: Mention the problem number range.
+      placeholder: "Example: Problems 1-38"
+    validations:
+      required: true
+
+  - type: textarea
+    id: objective
+    attributes:
+      label: Learning Objective
+      description: What concept or skill will be improved?
+      placeholder: "Example: Understand JavaScript variables and data types."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Task Checklist
+      options:
+        - label: I will solve the assigned problems.
+          required: true
+        - label: I will test my solutions.
+          required: true
+        - label: I will commit my changes properly.
+          required: true

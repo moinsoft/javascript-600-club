@@ -19,7 +19,7 @@ body:
     attributes:
       label: Related File or Section
       description: Mention the file, folder, or section related to this documentation update.
-      placeholder: Example: README.md, CONTRIBUTING.md, JavaScript Variables chapter
+      placeholder: "Example: README.md, CONTRIBUTING.md, JavaScript Variables chapter"
 
   - type: textarea
     id: suggestion

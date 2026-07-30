@@ -1,0 +1,29 @@
+name: Documentation
+description: Suggest documentation improvements or report missing documentation
+title: "[Docs]: "
+labels:
+  - documentation
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Documentation Request
+      description: Describe the documentation improvement or missing information.
+      placeholder: Explain what should be added or improved.
+    validations:
+      required: true
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Related File or Section
+      description: Mention the file, folder, or section related to this documentation update.
+      placeholder: Example: README.md, CONTRIBUTING.md, JavaScript Variables chapter
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Improvement
+      description: Describe your suggested documentation changes.
+      placeholder: Explain your idea.

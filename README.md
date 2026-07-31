@@ -61,6 +61,7 @@ solutions/
 ├── 24-browser-debugging/
 └── 25-final-project/
 ```
+
 Each chapter contains organized solution files grouped
 by related concepts and practice topics.
 

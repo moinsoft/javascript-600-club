@@ -4,7 +4,8 @@
   "description": "A structured JavaScript problem-solving journey featuring\r 600 solutions from the book `**_Marhaba JavaScript-e Maro Thaba_**` by Jhankar Mahbub.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",

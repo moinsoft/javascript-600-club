@@ -31,6 +31,11 @@ improve problem-solving skills, and build consistent programming habits.
 - Maintain a professional Git and GitHub workflow.
 - Document my learning journey.
 
+## Code Quality
+
+This project uses ESLint and GitHub Actions to automatically
+validate JavaScript code quality.
+
 ## Repository Structure
 
 ```text

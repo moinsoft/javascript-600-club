@@ -5,7 +5,7 @@
 We are committed to providing a welcoming, respectful, and
 inclusive environment for everyone who participates in this project.
 
-We value contributions from all individuals and expect all 
+We value contributions from all individuals and expect all
 contributors to communicate professionally and respectfully.
 
 ## Our Standards
@@ -41,7 +41,7 @@ Maintainers may take appropriate actions in response to unacceptable behavior, i
 
 ## Reporting Guidelines
 
-If you experience or witness unacceptable behavior, report it to the 
+If you experience or witness unacceptable behavior, report it to the
 project maintainers through the appropriate communication channels.
 
 Please provide:
@@ -64,5 +64,5 @@ This Code of Conduct applies to all project spaces, including:
 
 ## Acknowledgement
 
-By participating in this project, contributors agree to follow this Code 
+By participating in this project, contributors agree to follow this Code
 of Conduct and help maintain a respectful and collaborative environment.

@@ -12,24 +12,31 @@
 
 // Problem 01: Store birth year in a variable
 const birthYear = 2000;
+console.log(birthYear);
 
 // Problem 02: Store number of siblings
 const siblings = 7;
+console.log(siblings);
 
 // Problem 03: Store number of students in class
 const students = 45;
+console.log(students);
 
 // Problem 04: Store exam marks
 const marks = 900;
+console.log(marks);
 
 // Problem 05: Store number of rooms in home
 const rooms = 6;
+console.log(rooms);
 
 // Problem 06: Store daily study hours
 const dailyStudyHours = 7;
+console.log(dailyStudyHours);
 
 // Problem 07: Store sum of phone number digits
 const total = 18;
+console.log(total);
 
 // Problem 08: Store current age
 const age = 26;
@@ -41,6 +48,8 @@ console.log(booksToRead);
 
 // Problem 10: Store wake up time and update value
 var wakeUpTime = 7;
+console.log(wakeUpTime);
+
 wakeUpTime = 6;
 console.log(wakeUpTime);
 

@@ -1,8 +1,10 @@
 # Contributing Guide
 
-Thank you for your interest in contributing to the JavaScript 600 Club project.
+Thank you for your interest in contributing to
+the JavaScript 600 Club project.
 
-This document explains the workflow, standards, and guidelines for contributing to this repository.
+This document explains the workflow, standards,
+and guidelines for contributing to this repository.
 
 ---
 
@@ -37,13 +39,13 @@ Use meaningful branch names.
 
 Format:
 
-```
+```text
 type/description
 ```
 
 Examples:
 
-```
+```text
 feature/add-array-solutions
 docs/update-readme
 fix/fix-validation-error
@@ -58,13 +60,13 @@ This project follows Conventional Commits.
 
 Format:
 
-```
+```text
 type: short description
 ```
 
 Examples:
 
-```
+```text
 feat: add array problem solutions
 fix: correct loop solution
 docs: update contributing guide
@@ -96,7 +98,7 @@ A Pull Request should:
 
 Example:
 
-```
+```text
 Closes #10
 ```
 

@@ -1,8 +1,10 @@
 # JavaScript 600 Club
 
-A structured JavaScript problem-solving journey featuring 600 solutions from the book **_Marhaba JavaScript-e Maro Thaba_** by Jhankar Mahbub.
+A structured JavaScript problem-solving journey featuring
+600 solutions from the book `**_Marhaba JavaScript-e Maro Thaba_**` by Jhankar Mahbub.
 
-> This repository contains my own solutions and learning journey. The original problem statements are not reproduced here.
+> This repository contains my own solutions and learning journey.
+> The original problem statements are not reproduced here.
 
 ## Status
 
@@ -12,11 +14,14 @@ A structured JavaScript problem-solving journey featuring 600 solutions from the
 📝 Problems Solved: **38 / 600**
 
 ## Project Updates
+
 **19-07-2026:** Completed Variables chapter and updated project progress.
 
 ## About
 
-This repository documents my structured journey of solving 600 JavaScript problems to strengthen JavaScript fundamentals, improve problem-solving skills, and build consistent programming habits.
+This repository documents my structured journey of solving 600
+JavaScript problems to strengthen JavaScript fundamentals,
+improve problem-solving skills, and build consistent programming habits.
 
 ## Goals
 
@@ -57,14 +62,12 @@ solutions/
 └── 25-final-project/
 ```
 
-Each chapter contains organized solution files grouped by related concepts and practice topics.
+Each chapter contains organized solution files grouped
+by related concepts and practice topics.
 
 The repository structure is designed to scale cleanly as more solutions are added.
 
-
-## Author
-
-**Mohammad Moin Uddin**
+## Author: Mohammad Moin Uddin
 
 GitHub: [moinsoft](https://github.com/moinsoft)  
 LinkedIn: [Mohammad Moin Uddin](https://www.linkedin.com/in/moinsoft/)

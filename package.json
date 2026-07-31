@@ -1,0 +1,27 @@
+{
+  "name": "javascript-600-club-dev",
+  "version": "1.0.0",
+  "description": "A structured JavaScript problem-solving journey featuring\r 600 solutions from the book `**_Marhaba JavaScript-e Maro Thaba_**` by Jhankar Mahbub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moinsoft/javascript-600-club.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/moinsoft/javascript-600-club/issues"
+  },
+  "homepage": "https://github.com/moinsoft/javascript-600-club#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.8.0",
+    "globals": "^17.8.0"
+  }
+}

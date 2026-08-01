@@ -4,8 +4,6 @@
  *
  */
 
-
-
 // ===============================
 // Problem 01-14: Number Variables
 // ===============================
@@ -69,9 +67,6 @@ console.log(goals);
 const pillow = 2;
 console.log(pillow);
 
-
-
-
 // ==================================
 // Problem 15-21: String Variables
 // ==================================
@@ -83,7 +78,6 @@ console.log(name);
 // Problem 16: Store address
 const address = "Cumilla, Bangladesh";
 console.log(address);
-
 
 // Problem 17: Store institution name
 const institution = "Islamic University";
@@ -104,10 +98,6 @@ console.log(hobby);
 // Problem 21: Store favorite color
 const color = "Green";
 console.log(color);
-
-
-
-
 
 // =================================
 // Problem 22-28: Boolean Variables
@@ -143,20 +133,13 @@ console.log(isStudyDone);
 const isPhoneCharged = false;
 console.log(isPhoneCharged);
 
-
 // Problem 28: Dinner completed status
 const isDinnerDone = true;
 console.log(isDinnerDone);
 
-
-
-
-
 // =================================
 // Problem 29-38: Basic Operations
 // =================================
-
-
 
 // Problem 29: Calculate remaining money
 
@@ -167,8 +150,6 @@ const remainingMoney = income - expense;
 
 console.log(remainingMoney);
 
-
-
 // Problem 30: Pencil usage calculation
 
 const pencils = 10;
@@ -177,7 +158,6 @@ const usedEachTime = 2;
 const pencilUses = pencils / usedEachTime;
 
 console.log(pencilUses);
-
 
 // Problem 31: Expense calculation
 
@@ -190,7 +170,6 @@ const remainingAfterExpense = money % costPerTime;
 console.log(timesSpent);
 console.log(remainingAfterExpense);
 
-
 // Problem 32: Join two strings
 
 const firstWord = "Hello";
@@ -200,7 +179,6 @@ const fullWord = firstWord + secondWord;
 
 console.log(fullWord);
 
-
 // Problem 33: Calculate total weight
 
 const rice = 153;
@@ -209,7 +187,6 @@ const lentil = 261;
 const totalWeight = rice + lentil;
 
 console.log(totalWeight);
-
 
 // Problem 34: Shopping calculation
 
@@ -222,8 +199,6 @@ const remaining = totalMoney % spending;
 console.log(totalSpendTimes);
 console.log(remaining);
 
-
-
 // Problem 35: Division quotient and remainder
 
 const number = 8;
@@ -235,7 +210,6 @@ const remainder = number % divisor;
 console.log(quotient);
 console.log(remainder);
 
-
 // Problem 36: remainder
 
 const value = 50;
@@ -245,7 +219,6 @@ const result = value % divideBy;
 
 console.log(result);
 
-
 // Problem 37: Create Bangladesh using strings
 
 const countryPartOne = "Bangla";
@@ -254,7 +227,6 @@ const countryPartTwo = "desh";
 const countryName = countryPartOne + countryPartTwo;
 
 console.log(countryName);
-
 
 // Problem 38: Rice consumption calculation
 
